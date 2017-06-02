@@ -2,6 +2,7 @@
   "name": "registration-form",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://avastamin.github.io/React-Registration-Form",
   "dependencies": {
     "classnames": "^2.2.5",
     "react": "^15.5.4",
