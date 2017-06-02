@@ -2,7 +2,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)
 
 ## DEMO
-[from here]()
+[from here](https://github.com/avastamin/React-Registration-Form/build)
 
 ## Run the app:
 1) Clone the repo.
