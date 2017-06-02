@@ -1,0 +1,61 @@
+body {
+    background: #d1d1d1;
+}
+.App{
+    background: #ffffff;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 60px;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    box-shadow: 0px 1px 1px #999999;
+    position: relative;
+    overflow: hidden;
+}
+.title{
+    font-size: 26px;
+    color: #222222;
+    text-align: center;
+}
+.input-wrap{
+    margin-bottom: 10px;
+}
+.form-control {
+    font-size: 18px !important;
+    height: 43px;
+}
+label{
+    font-size: 16px;
+}
+.bank-account-elements{
+    position: relative;
+}
+.error_container span{
+    color: #a94442;
+    display: block;
+}
+span.empty-error{
+    color: #a94442;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+.delete-account {
+    position: absolute;
+    font-size: 18px;
+    right: -24px;
+    top: 31px;
+}
+.add-bank-acc {
+    display: block;
+    background-color: #d1d1d1;
+    font-size: 16px;
+    padding: 10px 15px;
+    margin: 10px auto;
+}
+.submit-button {
+    float: right;
+    font-size: 16px;
+    padding: 10px 15px;
+}
